@@ -3,19 +3,24 @@ import styles from '../../styles/layout.module.css';
 
 import React from 'react';
 
-const Layout = ({childrean}) => {
+const Layout = ({children}) => {
     return (
-        <div className={styles.container}>
-            <Head>
+        <>
+            <div className={styles.container}>
+                <Head>
 
-            </Head>
+                </Head>
 
-            <header>
+                <header>
 
-            </header>
+                </header>
 
-            
-        </div>
+                <main className={styles.main}>{children}</main>
+                <footer className={styles.footer}>
+                    FOOTER
+                </footer>
+            </div>
+        </>
     );
 }
 

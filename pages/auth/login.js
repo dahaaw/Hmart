@@ -1,10 +1,92 @@
-import React from 'react';
+import Layout from '../../components/layout';
 
 const login = () => {
     return (
-        <div>
-            LOGIN
-        </div>
+        <Layout>
+            <div>
+            LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                LOGIN<br />
+                
+            </div>
+        </Layout>
     );
 }
 
